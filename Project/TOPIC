@@ -1,6 +1,7 @@
 Sixth Semester Project - Operating System
 Topic: ALGORITHM VISUALIZER Program
-
-
-To Run The Project
-Install graphics.h and run main.cpp
+---------------------------------------------------------------------------------------
+It shows how all the OS algorithm works visually step by step for better understanding.
+----------------------------------------------------------------------------------------
+To Run The Project or compile it.
+At first Install graphics.h and then run main.cpp on any compiler.
